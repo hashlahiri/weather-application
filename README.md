@@ -1,2 +1,5 @@
-# weather-application
-SpringBoot and external JSON powered weather application for OPENAPI access
+My Weather App
+OpenWeather API
+
+FrontEnd: Bootstrap and jquery
+Backend: SpringBoot
